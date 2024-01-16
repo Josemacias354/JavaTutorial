@@ -8,7 +8,7 @@ public class FlujosEstructuras {
 		// Código para control de flujo
 		// Estructuras de Control y Estructuras de Repetición
 		
-		//Definición de variables
+		//Definición de  variables cambio
 
 		Scanner entradaint = new Scanner(System.in); 
 		Scanner entradachar = new Scanner(System.in);
