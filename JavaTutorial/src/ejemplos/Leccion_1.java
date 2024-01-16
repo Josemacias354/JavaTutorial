@@ -5,7 +5,7 @@ public class Leccion_1 {
 	
 	public static void main(String[] args) {
 
-		// TIPOS DE DATOS EN JAVA; Simples y Complejos
+		// TIPOS DE DATOS EN JAVA; Simples y Complejoscambio github
 		// Operaciones básicas: Asignación, ++x, --x, x++, x--
 		// ESTRUCTURAS DE Repeticion; For
 	

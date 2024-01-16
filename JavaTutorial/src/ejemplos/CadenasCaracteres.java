@@ -6,6 +6,7 @@ public class CadenasCaracteres {
 	
 
 	public static void main(String[] args) {
+
 		// Operaciones con cadenas de caracters cambio
 		
 		String cadena1 = "";
