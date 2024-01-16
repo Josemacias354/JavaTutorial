@@ -6,7 +6,7 @@ public class CadenasCaracteres {
 	
 
 	public static void main(String[] args) {
-		// Operaciones con Cadenas de Caracters
+		// Operaciones con Cadenas de Caracters cambio github
 		
 		String cadena1 = "";
 		String cadena2 = "";
